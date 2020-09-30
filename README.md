@@ -9,7 +9,7 @@ In my approach to solve the problem, I tried to solve the problem beginning with
 In my code, I tried to break down the algorithm/process into small steps, as well as adding few comments to explain the step. Thus making the code clear and easy to maintain.
 
 
----
+<br/><br/>
 
 
 # Scaling Umbrella
